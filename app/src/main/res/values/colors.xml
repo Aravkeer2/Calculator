@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#6200EE</color>
+    <color name="violet">#3700B3</color>
+    <color name="bluegreen">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF9800</color>
+    <color name="skyblue">#03A9F4</color>
+    <color name="purble">#9C27B0</color>
+
+<color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#ffffff</color>
+
+</resources>
